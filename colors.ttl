@@ -8,20 +8,20 @@ ex:Fruechte a skos:ConceptScheme ;
 
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
 
-    skos:definition "Eine Frucht ist ein Pflanzenteil, das meist Samen zur Fortpflanzung der Pflanze enthält, oft umschlossen von Fruchtfleisch. Manche Früchte sind für Menschen genießbar."@de ;
+    skos:definition "Eine Frucht ist ein Pflanzenteil, das meist Samen zur Fortpflanzung der Pflanze enthält, oft umschlossen von Fruchtfleisch. Manche Früchte sind für Menschen genießbar."@de;
 
-    skos:hasTopConcept ex:Obst, ex:NichtessbareFruechte .
+    skos:hasTopConcept ex:Obst, ex:NichtessbareFruechte.
 
 
-ex:Obst a skos:Concept ; 
+ex:Obst a skos:Concept; 
 
-    skos:prefLabel "Obst"@de, "edible fruits"@en ;
+    skos:prefLabel "Obst"@de, "edible fruits"@en;
 
-    skos:definition "Essbare Früchte"@de ;
+    skos:definition "Essbare Früchte"@de;
 
-    skos:narrower ex:Zitrus, ex:Beerenobst, ex:Kernobst ;
+    skos:narrower ex:Zitrus, ex:Beerenobst, ex:Kernobst;
 
-    skos:inScheme ex:Fruechte ;
+    skos:inScheme ex:Fruechte;
 
     skos:topConceptOf ex:Fruechte.
 
@@ -51,8 +51,6 @@ ex:Orange a skos:Concept;
 ex:Mandarine a skos:Concept;
 
     skos:prefLabel "Mandarine"@de, "mandarine"@en ;
-
-    skos:altLabel "tangerine"@en, "mandarin orange"@en, "Mandarin-Orange"@de;
 
     skos:definition "Sieht ähnlich aus wie eine Orange, ist aber kleiner und weicher."@de;
 
@@ -117,6 +115,4 @@ ex:NichtessbareFruechte a skos:Concept;
 
     skos:inScheme ex:Fruechte;
 
-    skos:topConceptOf ex:Fruechte
-
-.
+    skos:topConceptOf ex:Fruechte.

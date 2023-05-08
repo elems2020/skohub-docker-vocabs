@@ -2,8 +2,8 @@
   "id": "http://example.org/fruechte/Himbeere",
   "type": "Concept",
   "prefLabel": {
-    "de": "Himbeere",
-    "en": "raspberry"
+    "en": "raspberry",
+    "de": "Himbeere"
   },
   "definition": {
     "de": "Rote, kleine Frucht mit vielen kleinen Unterbeeren."
@@ -11,16 +11,16 @@
   "broader": {
     "id": "http://example.org/fruechte/Beerenobst",
     "prefLabel": {
-      "de": "Beerenobst",
-      "en": "berries"
+      "en": "berries",
+      "de": "Beerenobst"
     }
   },
   "inScheme": [
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],

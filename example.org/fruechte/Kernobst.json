@@ -2,23 +2,23 @@
   "id": "http://example.org/fruechte/Kernobst",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kernobst",
-    "en": "stone fruit"
+    "en": "stone fruit",
+    "de": "Kernobst"
   },
   "narrower": [
     {
       "id": "http://example.org/fruechte/Apfel",
       "prefLabel": {
-        "de": "Apfel",
         "en": "apple",
+        "de": "Apfel",
         "fr": "pomme"
       }
     },
     {
       "id": "http://example.org/fruechte/Birne",
       "prefLabel": {
-        "de": "Birne",
         "en": "pear",
+        "de": "Birne",
         "fr": "poire"
       }
     }
@@ -26,16 +26,16 @@
   "broader": {
     "id": "http://example.org/fruechte/Obst",
     "prefLabel": {
-      "de": "Obst",
-      "en": "edible fruits"
+      "en": "edible fruits",
+      "de": "Obst"
     }
   },
   "inScheme": [
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],

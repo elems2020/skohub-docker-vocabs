@@ -2,8 +2,8 @@
   "id": "http://example.org/fruechte/Beerenobst",
   "type": "Concept",
   "prefLabel": {
-    "de": "Beerenobst",
-    "en": "berries"
+    "en": "berries",
+    "de": "Beerenobst"
   },
   "altLabel": {
     "de": [
@@ -20,24 +20,24 @@
     {
       "id": "http://example.org/fruechte/Himbeere",
       "prefLabel": {
-        "de": "Himbeere",
-        "en": "raspberry"
+        "en": "raspberry",
+        "de": "Himbeere"
       }
     }
   ],
   "broader": {
     "id": "http://example.org/fruechte/Obst",
     "prefLabel": {
-      "de": "Obst",
-      "en": "edible fruits"
+      "en": "edible fruits",
+      "de": "Obst"
     }
   },
   "inScheme": [
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],

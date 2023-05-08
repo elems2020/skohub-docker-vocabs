@@ -2,8 +2,8 @@
   "id": "http://example.org/fruechte/Apfel",
   "type": "Concept",
   "prefLabel": {
-    "de": "Apfel",
     "en": "apple",
+    "de": "Apfel",
     "fr": "pomme"
   },
   "definition": {
@@ -12,16 +12,16 @@
   "broader": {
     "id": "http://example.org/fruechte/Kernobst",
     "prefLabel": {
-      "de": "Kernobst",
-      "en": "stone fruit"
+      "en": "stone fruit",
+      "de": "Kernobst"
     }
   },
   "inScheme": [
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],

@@ -2,8 +2,8 @@
   "id": "http://example.org/fruechte/Obst",
   "type": "Concept",
   "prefLabel": {
-    "de": "Obst",
-    "en": "edible fruits"
+    "en": "edible fruits",
+    "de": "Obst"
   },
   "definition": {
     "de": "Essbare Früchte "
@@ -12,22 +12,22 @@
     {
       "id": "http://example.org/fruechte/Zitrus",
       "prefLabel": {
-        "de": "Zitrusfrucht",
-        "en": "citrus fruit"
+        "en": "citrus fruit",
+        "de": "Zitrusfrucht"
       }
     },
     {
       "id": "http://example.org/fruechte/Beerenobst",
       "prefLabel": {
-        "de": "Beerenobst",
-        "en": "berries"
+        "en": "berries",
+        "de": "Beerenobst"
       }
     },
     {
       "id": "http://example.org/fruechte/Kernobst",
       "prefLabel": {
-        "de": "Kernobst",
-        "en": "stone fruit"
+        "en": "stone fruit",
+        "de": "Kernobst"
       }
     }
   ],
@@ -35,8 +35,8 @@
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],
@@ -49,8 +49,8 @@
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],

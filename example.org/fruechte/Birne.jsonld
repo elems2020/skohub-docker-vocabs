@@ -2,23 +2,23 @@
   "id": "http://example.org/fruechte/Birne",
   "type": "Concept",
   "prefLabel": {
-    "de": "Birne",
     "en": "pear",
+    "de": "Birne",
     "fr": "poire"
   },
   "broader": {
     "id": "http://example.org/fruechte/Kernobst",
     "prefLabel": {
-      "de": "Kernobst",
-      "en": "stone fruit"
+      "en": "stone fruit",
+      "de": "Kernobst"
     }
   },
   "inScheme": [
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],

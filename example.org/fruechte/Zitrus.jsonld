@@ -2,8 +2,8 @@
   "id": "http://example.org/fruechte/Zitrus",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zitrusfrucht",
-    "en": "citrus fruit"
+    "en": "citrus fruit",
+    "de": "Zitrusfrucht"
   },
   "altLabel": {
     "de": [
@@ -17,31 +17,31 @@
     {
       "id": "http://example.org/fruechte/Orange",
       "prefLabel": {
-        "de": "Orange",
-        "en": "orange"
+        "en": "orange",
+        "de": "Orange"
       }
     },
     {
       "id": "http://example.org/fruechte/Mandarine",
       "prefLabel": {
-        "de": "Mandarine",
-        "en": "mandarine"
+        "en": "mandarine",
+        "de": "Mandarine"
       }
     }
   ],
   "broader": {
     "id": "http://example.org/fruechte/Obst",
     "prefLabel": {
-      "de": "Obst",
-      "en": "edible fruits"
+      "en": "edible fruits",
+      "de": "Obst"
     }
   },
   "inScheme": [
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],

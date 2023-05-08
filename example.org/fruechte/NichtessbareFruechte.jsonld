@@ -2,15 +2,15 @@
   "id": "http://example.org/fruechte/NichtessbareFruechte",
   "type": "Concept",
   "prefLabel": {
-    "de": "Nichtessbare Früchte",
-    "en": "inedible fruits"
+    "en": "inedible fruits",
+    "de": "Nichtessbare Früchte"
   },
   "inScheme": [
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],
@@ -23,8 +23,8 @@
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],

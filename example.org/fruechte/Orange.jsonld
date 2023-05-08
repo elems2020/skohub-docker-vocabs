@@ -2,8 +2,8 @@
   "id": "http://example.org/fruechte/Orange",
   "type": "Concept",
   "prefLabel": {
-    "de": "Orange",
-    "en": "orange"
+    "en": "orange",
+    "de": "Orange"
   },
   "altLabel": {
     "de": [
@@ -13,16 +13,16 @@
   "broader": {
     "id": "http://example.org/fruechte/Zitrus",
     "prefLabel": {
-      "de": "Zitrusfrucht",
-      "en": "citrus fruit"
+      "en": "citrus fruit",
+      "de": "Zitrusfrucht"
     }
   },
   "inScheme": [
     {
       "id": "http://example.org/fruechte/Fruechte",
       "title": {
-        "de": "Früchte",
-        "en": "fruits"
+        "en": "fruits",
+        "de": "Früchte"
       }
     }
   ],

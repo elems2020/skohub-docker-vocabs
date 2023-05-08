@@ -17,7 +17,7 @@ ex:Obst a skos:Concept;
 
     skos:prefLabel "Obst"@de, "edible fruits"@en;
 
-    skos:definition "Essbare Früchte"@de;
+    skos:definition "Essbare Früchte "@de;
 
     skos:narrower ex:Zitrus, ex:Beerenobst, ex:Kernobst;
 
